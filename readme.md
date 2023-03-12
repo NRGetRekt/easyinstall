@@ -13,7 +13,7 @@
 
 #### Installation
 
-`wget https://raw.githubusercontent.com/NRGetRekt/master/easyinstall && bash easyinstall`
+`wget https://raw.githubusercontent.com/NRGetRekt/easyinstall/main/easyinstall && bash easyinstall`
 
 ##### Usage
 
