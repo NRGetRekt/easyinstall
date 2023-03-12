@@ -30,7 +30,7 @@ clear
 fi
 echo -e "\033[1;31m           Badvpn Installer\n\033[0m"
 echo -e "downloading Badvpn"
-wget -O /bin/badvpn-udpgw https://raw.githubusercontent.com/powermx/badvpn/master/badvpn-udpgw &>/dev/null
+wget -O /bin/badvpn-udpgw https://raw.githubusercontent.com/NRGetRekt/easyinstall/master/badvpn-udpgw &>/dev/null
 chmod +x /bin/badvpn-udpgw
 echo -e "\033[1;32m  Badvpn has been successfully installed\033[0m" 
 echo -e "\033[1;37mCommands:\n\033[1;31m badvpn start\033[1;37m to start badvpn"
