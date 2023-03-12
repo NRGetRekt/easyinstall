@@ -1,4 +1,4 @@
-## Stand-Alone BadVPN Module: [BadVPN](https://github.com/NRGetRekt/easyinstall/)
+## Stand-Alone [BadVPN](https://github.com/ambrop72/badvpn) Module
 
 ![](https://img.shields.io/badge/Ubuntu-16.04-orange)
 ![](https://img.shields.io/badge/Ubuntu-16.10-orange)
