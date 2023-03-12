@@ -1,4 +1,4 @@
-## Servicio: [BadVPN](https://github.com/NRGetRekt/easyinstall/)
+## Stand-Alone BadVPN Module: [BadVPN](https://github.com/NRGetRekt/easyinstall/)
 
 ![](https://img.shields.io/badge/Ubuntu-16.04-orange)
 ![](https://img.shields.io/badge/Ubuntu-16.10-orange)
@@ -11,14 +11,14 @@
 ![](https://img.shields.io/badge/Debian-9-red)
 ![](https://img.shields.io/badge/Debian-10-red)
 
-#### Instalacion
+#### Installation
 
-Instalación：`wget https://raw.githubusercontent.com/NRGetRekt/master/easyinstall && bash easyinstall`
+`wget https://raw.githubusercontent.com/NRGetRekt/master/easyinstall && bash easyinstall`
 
-##### Uso
+##### Usage
 
-Para Iniciar BadVPN teclea: `badvpn start`
+To Start the service use: `badvpn start`
 
-Para Detener BadVPN teclea: `badvpn stop`
+To Stop the service use: `badvpn stop`
 
-Para Desinstalar BadVPN teclea: `badvpn uninstall`
+To Uninstall Badvpn use: `badvpn uninstall`
