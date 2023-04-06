@@ -28,5 +28,7 @@ To Stop the service use:
 ```bash
 badvpn stop
 ```
-To Uninstall Badvpn use: ```bash badvpn uninstall
+To Uninstall Badvpn use: 
+```bash
+badvpn uninstall
 ```
