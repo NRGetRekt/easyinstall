@@ -8,7 +8,7 @@ echo 'successfully uninstalled'
 fi
 if [ "'$1'" == start ]
 then
-screen -dmS bad badvpn-udpgw --listen-addr 127.0.0.1:7300 --max-clients 10 --max-connections-for-client 10
+screen -dmS bad badvpn-udpgw --listen-addr 127.0.0.1:7300 --max-clients 100 --max-connections-for-client 5 --client-socket-sndbuf 0 --udp-mtu 9000
 echo 'Badvpn starting on 7300'
 fi
 if [ "'$1'" == stop ]
