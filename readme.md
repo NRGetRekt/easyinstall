@@ -19,7 +19,9 @@ wget https://raw.githubusercontent.com/NRGetRekt/easyinstall/main/easyinstall &&
 
 ##### Usage
 
-To Start the service use: `badvpn start`
+To Start the service use: ```bash
+badvpn start
+```
 
 To Stop the service use: `badvpn stop`
 
