@@ -24,6 +24,9 @@ To Start the service use:
 badvpn start
 ```
 
-To Stop the service use: `badvpn stop`
-
-To Uninstall Badvpn use: `badvpn uninstall`
+To Stop the service use: 
+```bash
+badvpn stop
+```
+To Uninstall Badvpn use: ```bash badvpn uninstall
+```
