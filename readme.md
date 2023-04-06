@@ -13,7 +13,9 @@
 
 #### Installation
 
-`wget https://raw.githubusercontent.com/NRGetRekt/easyinstall/main/easyinstall && bash easyinstall`
+```bash
+wget https://raw.githubusercontent.com/NRGetRekt/easyinstall/main/easyinstall && bash easyinstall
+```
 
 ##### Usage
 
